@@ -1,5 +1,3 @@
-分割线
-
 # 安装VPN
 
 # v2ray+websocket(ws)+tls+nginx+cloudflare
