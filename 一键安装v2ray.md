@@ -32,6 +32,8 @@
 
 把DNS域名服务器地址，复制到购买域名的网站
 
+这里以namesilo为例，登录namesilo，点开网页右上角 management my domain，对自己某个域名打钩，选择change namesevers（双向箭头图标），把clouldfare的两个DNS域名解析服务器地址，粘贴到这里。cmd ping 通就行了
+
 ### 4.一键安装  Debian系统
 
 先升级
