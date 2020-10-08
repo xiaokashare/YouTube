@@ -13,3 +13,6 @@ https://romsforever.co/roms/playstation-3/page/2
 
 #### wii-u游戏下载地址：
 https://romsforever.co/roms/wii-u
+
+#### MAME街机游戏下载地址：
+https://www.romsformame.com/index.php?p=57
