@@ -23,18 +23,10 @@ https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 2. 再安装“Performance Booster and Plugin Extender”MOD，链接：https://www.nexusmods.com/monsterhunterworld/mods/3473
 3. 重启游戏和修改器
 
-- 所有物品进入商店，包括珠子
+- 所有物品进入商店，包括珠子 https://www.nexusmods.com/monsterhunterworld/mods/44
 
-https://www.nexusmods.com/monsterhunterworld/mods/44
+- 所有物品1金币 https://www.nexusmods.com/monsterhunterworld/mods/2310
 
-- 所有物品1金币
+- 传说中的CE，修改任意数据  https://www.nexusmods.com/monsterhunterworld/mods/2161
 
-https://www.nexusmods.com/monsterhunterworld/mods/2310
-
-- 传说中的CE，修改任意数据
-
-https://www.nexusmods.com/monsterhunterworld/mods/2161
-
-- 可爱化mod
-
-https://www.nexusmods.com/monsterhunterworld/mods/1914
+- 可爱化mod   https://www.nexusmods.com/monsterhunterworld/mods/1914
