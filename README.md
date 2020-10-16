@@ -25,7 +25,12 @@ https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 
 所有物品进入商店，包括珠子
 https://www.nexusmods.com/monsterhunterworld/mods/44
+
 所有物品1金币
 https://www.nexusmods.com/monsterhunterworld/mods/2310
+
 传说中的CE，修改任意数据
 https://www.nexusmods.com/monsterhunterworld/mods/2161
+
+可爱化mod
+https://www.nexusmods.com/monsterhunterworld/mods/1914
