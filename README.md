@@ -2,7 +2,7 @@
 ## 文件分享请见 https://github.com/xiaokashare/FileShare
 
 
-#### switch游戏下载地址：
+#### switch游戏下载地址：下载教程：https://drive.google.com/file/d/1ANLOwWx88D2llPp0XBOxhez5h7n5cANO/view?usp=sharing
 https://switch-xci.com/
 
 
@@ -11,7 +11,7 @@ https://game-2u.com/Category/ps3
 
 https://romsforever.co/roms/playstation-3/page/2
 
-#### wii-u游戏下载地址： 下载教程：https://drive.google.com/file/d/1ANLOwWx88D2llPp0XBOxhez5h7n5cANO/view?usp=sharing
+#### wii-u游戏下载地址： 
 https://romsforever.co/roms/wii-u
 
 #### MAME街机游戏下载地址：
