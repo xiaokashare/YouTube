@@ -1,7 +1,7 @@
 # 小卡分享YouTube文档
 ## 文件分享请见 https://github.com/xiaokashare/FileShare
 
-### steam等游戏折扣网站
+### Steam等游戏折扣网站
 ```
 HB慈善包：https://www.humblebundle.com/
 折扣网站：https://www.nuuvem.com/
@@ -10,7 +10,7 @@ HB慈善包：https://www.humblebundle.com/
 比价网站：https://www.dlcompare.com/
 ```
 
-#### switch游戏下载地址：下载教程：https://drive.google.com/file/d/1ANLOwWx88D2llPp0XBOxhez5h7n5cANO/view?usp=sharing
+#### Switch游戏下载地址：下载教程：https://drive.google.com/file/d/1ANLOwWx88D2llPp0XBOxhez5h7n5cANO/view?usp=sharing
 https://switch-xci.com/
 
 
@@ -25,6 +25,7 @@ https://romsforever.co/roms/wii-u
 #### MAME街机游戏下载地址：
 https://www.romsformame.com/index.php?p=57
 #### 怪物猎人修改器
+```
 https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 
 1. 先安装“Stracker's Loader”MOD加载器，链接：https://www.nexusmods.com/monsterhunterworld/mods/1982
@@ -38,3 +39,4 @@ https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 - 传说中的CE，修改任意数据  https://www.nexusmods.com/monsterhunterworld/mods/2161
 
 - 可爱化mod   https://www.nexusmods.com/monsterhunterworld/mods/1914
+```
