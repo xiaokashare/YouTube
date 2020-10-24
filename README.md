@@ -2,10 +2,13 @@
 ## 文件分享请见 https://github.com/xiaokashare/FileShare
 
 ### steam等游戏折扣网站
+```
 HB慈善包：https://www.humblebundle.com/
 折扣网站：https://www.nuuvem.com/
 折扣网站：https://www.fanatical.com/
 免费游戏激活码：https://www.freesteam.games/
+比价网站：https://www.dlcompare.com/
+```
 
 #### switch游戏下载地址：下载教程：https://drive.google.com/file/d/1ANLOwWx88D2llPp0XBOxhez5h7n5cANO/view?usp=sharing
 https://switch-xci.com/
