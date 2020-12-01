@@ -42,6 +42,8 @@ https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 - 传说中的CE，修改任意数据  https://www.nexusmods.com/monsterhunterworld/mods/2161
 
 - 可爱化mod   https://www.nexusmods.com/monsterhunterworld/mods/1914
+
+- 显血插件HunterPie  https://github.com/Haato3o/HunterPie/releases/tag/v1.0.3.98
 ```
 #### 炉石传说
 ```
