@@ -49,4 +49,7 @@ https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 ```
 记牌器，胜率计算器
 https://hsreplay.net/downloads/?hl=zh-hans
+
+一键断线重连，整活必备
+https://github.com/Vaiz/HsReconnectTool
 ```
