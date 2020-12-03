@@ -1,9 +1,11 @@
-## YouTube地址：https://www.youtube.com/channel/UC1pC71o48POXQKlwRNM3l7A
+## [YouTube链接](https://www.youtube.com/channel/UC1pC71o48POXQKlwRNM3l7A)
 
-# 小卡分享YouTube文档
+## 小卡分享YouTube文档
 ## 文件分享请见 https://github.com/xiaokashare/FileShare
 
-### Steam等游戏折扣网站
+----
+
+### 1. Steam等游戏折扣网站
 ```
 HB慈善包：https://www.humblebundle.com/
 折扣网站：https://www.nuuvem.com/
@@ -13,21 +15,24 @@ HB慈善包：https://www.humblebundle.com/
 比价网站：https://www.dlcompare.com/
 ```
 
-#### Switch游戏下载地址：下载教程：https://drive.google.com/file/d/1ANLOwWx88D2llPp0XBOxhez5h7n5cANO/view?usp=sharing
+#### 2. Switch游戏下载地址：下载教程：https://drive.google.com/file/d/1ANLOwWx88D2llPp0XBOxhez5h7n5cANO/view?usp=sharing
 https://switch-xci.com/
 
 
-#### PS3游戏下载地址：
+#### 3. PS3游戏下载地址：
 https://game-2u.com/Category/ps3
 
 https://romsforever.co/roms/playstation-3/page/2
 
-#### wii-u游戏下载地址： 
+#### 4. Wii-u游戏下载地址： 
+
 https://romsforever.co/roms/wii-u
 
-#### MAME街机游戏下载地址：
+#### 5. MAME街机游戏下载地址：
+
 https://www.romsformame.com/index.php?p=57
-#### 怪物猎人修改器
+
+#### 6. 怪物猎人修改器
 ```
 https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 
@@ -45,7 +50,7 @@ https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 
 - 显血插件HunterPie  https://github.com/Haato3o/HunterPie/releases/tag/v1.0.3.98
 ```
-#### 炉石传说
+#### 7. 炉石传说
 ```
 记牌器，胜率计算器
 https://hsreplay.net/downloads/?hl=zh-hans
