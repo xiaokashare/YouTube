@@ -33,7 +33,7 @@ https://romsforever.co/roms/wii-u
 
 https://www.romsformame.com/index.php?p=57
 
-### 6. 怪物猎人修改器
+### 6. 怪物猎人修改器 [教程链接](https://youtu.be/ZMLqfSzUkRE)
 ```
 https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 
@@ -51,7 +51,7 @@ https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 
 - 显血插件HunterPie  https://github.com/Haato3o/HunterPie/releases/tag/v1.0.3.98
 ```
-#### 7. 炉石传说
+#### 7. 炉石传说  [教程链接](https://youtu.be/mJYORGAoRT4)
 ```
 记牌器，胜率计算器
 https://hsreplay.net/downloads/?hl=zh-hans
