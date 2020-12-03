@@ -14,11 +14,13 @@ HB慈善包：https://www.humblebundle.com/
 比价网站：https://www.dlcompare.com/
 ```
 
-### 2. Switch游戏下载地址：下载教程：https://drive.google.com/file/d/1ANLOwWx88D2llPp0XBOxhez5h7n5cANO/view?usp=sharing
+### 2. Switch游戏下载地址：[下载教程](https://drive.google.com/file/d/1ANLOwWx88D2llPp0XBOxhez5h7n5cANO/view?usp=sharing)
+
 https://switch-xci.com/
 
 
 ### 3. PS3游戏下载地址：
+
 https://game-2u.com/Category/ps3
 
 https://romsforever.co/roms/playstation-3/page/2
