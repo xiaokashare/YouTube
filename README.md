@@ -14,9 +14,9 @@ HB慈善包：https://www.humblebundle.com/
 比价网站：https://www.dlcompare.com/
 ```
 
-### 2. Switch游戏下载地址：none
+### 2. Switch游戏下载地址：
 
-
+https://nsw2u.com/
 
 
 ### 3. PS3游戏下载地址：
