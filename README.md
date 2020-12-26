@@ -6,10 +6,13 @@
 
 ### 1. Steam等游戏折扣网站
 ```
-HB慈善包：https://www.humblebundle.com/
-折扣网站：https://www.nuuvem.com/
-折扣网站：https://www.fanatical.com/
-折扣网站：https://www.greenmangaming.com/zh/  国内不要用vpn连接，会显示人民币，便宜很多
+主要推荐：
+折扣网站：https://www.fanatical.com/  （支持支付宝）
+折扣网站：https://www.greenmangaming.com/zh/  （支持支付宝）国内不要用vpn连接，会显示人民币，便宜很多
+
+
+HB慈善包：https://www.humblebundle.com/ （支持支付宝）
+折扣网站：https://www.nuuvem.com/ （不支持支付宝）
 免费游戏激活码：https://www.freesteam.games/
 比价网站：https://www.dlcompare.com/
 ```
