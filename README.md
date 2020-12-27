@@ -17,26 +17,8 @@ HB慈善包：https://www.humblebundle.com/ （支持支付宝）
 比价网站：https://www.dlcompare.com/
 ```
 
-### 2. Switch游戏下载地址：
 
-https://nsw2u.com/
-
-
-### 3. PS3游戏下载地址：
-
-https://game-2u.com/Category/ps3
-
-https://romsforever.co/roms/playstation-3/page/2
-
-### 4. Wii-u游戏下载地址： 
-
-https://romsforever.co/roms/wii-u
-
-### 5. MAME街机游戏下载地址：
-
-https://www.romsformame.com/index.php?p=57
-
-### 6. 怪物猎人修改器 [教程链接](https://youtu.be/ZMLqfSzUkRE)
+### 2. 怪物猎人修改器 [教程链接](https://youtu.be/ZMLqfSzUkRE)
 ```
 https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 
@@ -54,7 +36,7 @@ https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 
 - 显血插件HunterPie  https://github.com/Haato3o/HunterPie/releases/tag/v1.0.3.98
 ```
-#### 7. 炉石传说  [教程链接](https://youtu.be/mJYORGAoRT4)
+#### 3. 炉石传说  [教程链接](https://youtu.be/mJYORGAoRT4)
 ```
 记牌器，胜率计算器
 https://hsreplay.net/downloads/?hl=zh-hans
