@@ -39,7 +39,9 @@ https://flingtrainer.com/trainer/monster-hunter-world-trainer/
 #### 3. 炉石传说  [教程链接](https://youtu.be/mJYORGAoRT4)
 ```
 记牌器，胜率计算器
-https://hsreplay.net/downloads/?hl=zh-hans
+官网 https://hsreplay.net/downloads/?hl=zh-hans
+官网进不去，来这里下载 https://github.com/HearthSim/Hearthstone-Deck-Tracker
+
 
 一键断线重连，整活必备
 https://github.com/Vaiz/HsReconnectTool
